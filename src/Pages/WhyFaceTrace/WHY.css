@@ -1,0 +1,18 @@
+.why-container {
+  padding: 5%;
+}
+
+.why-container h2 {
+  font-weight: 800;
+  font-style: bold;
+  font-family: 'Montserrat';
+
+}
+
+.why-container h5 {
+  font-weight: 400;
+  font-style: bold;
+  padding-bottom: 2%;
+  font-family: 'Montserrat';
+}
+

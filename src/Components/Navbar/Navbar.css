@@ -1,0 +1,64 @@
+.Bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 5px 10px 18px #f3f3f3;
+  max-height: 18vh;
+  z-index: 10000;
+  margin-top: 10px;
+  padding: 5px;
+  text-align: center;
+}
+
+.Logo {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  color: black;
+  font-size: 2.4rem;
+}
+
+.list {
+  padding : 5px;
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Montserrat';
+}
+
+.Bar li {
+  display: inline;
+  list-style: none;
+  text-decoration: none;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  text-decoration: none;
+
+  width: 100%;
+  margin-top: 20px;
+}
+
+
+
+@media screen and (max-width: 500) {
+  .nav-link {
+    font-size: 1rem;
+    text-decoration: none;
+  }
+  .Bar li {
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+    margin-left: 1rem;
+  }
+  .Logo {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    color: black;
+    font-size: 2.4rem;
+    letter-spacing: 5px;
+    text-align: center;
+  }
+}
+
+
