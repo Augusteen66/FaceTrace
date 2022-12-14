@@ -45,3 +45,6 @@ We are really proud that we were able to successfully integrate an ML model with
 ## What's next for FaceTrace
 - Facetrace can be used as a product that companies can consolidate into their websites when asking for uploading the user’s profile picture. 
 - At the moment, FaceTrace can operate only on images but later we can even include processing of live videos through the front camera/webcam. Incorporating the fundamentals of FaceTrace can help in monitoring students during their online examinations.
+
+## Demo Video:
+https://www.youtube.com/watch?v=qqbCH3jIpzU
